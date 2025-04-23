@@ -2,6 +2,7 @@
 AI researcher with a focus on generative models and a passion for computer vision
 
 💼 Experience
+
 [Anipen Corp_Prompt Engineer (2024–current)]
 
 - BerryMoji_AI Emoji Generation App
