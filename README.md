@@ -1,5 +1,5 @@
 # 👩‍💻 Jisu Yoon  
-Generative AI Engineer with a focus on vision AI
+AI researcher, Prompt Engineer with focus on vision AI
 
 ---
 
