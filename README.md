@@ -5,21 +5,15 @@ Generative AI Engineer with a focus on vision AI
 
 ## 💼 Experience
 
-### Anipen Corp — Prompt Engineer (2024–current)
+### 🔹 Prompt Engineer @ Anipen Corp (2024.04 – Present)
+- **BerryMoji App**: Developed personalized emoticons using *ComfyUI*-based prompt engineering. Built and refined LoRA models through dataset preprocessing and performance optimization.
+- **1thePic App**:  
+  - Conducted research and PoC on generative models including *upscaler*, *face swap*, *virtual try-on*, and *animation diff*.
+  - Focused on vision-based AI model pipelines.
 
-**BerryMoji – AI Emoji Generation App**  
-Built personalized emoji generation workflows using ComfyUI and LoRA tuning.  
-Designed training datasets and tested style LoRAs to improve visual consistency and user alignment.
+### 🔹 Generative AI Intern @ SNOW Corp (2023.05 – 2023.11)
+- Contributed to SNOW's AI service by building prompts and training LoRA models for image generation.
 
-**Vision AI PoC Projects**  
-Explored vision techniques such as upscaling and segmentation in PoC pipelines,  
-alongside generative model applications like virtual try-on and face swap.
-
-### SNOW Corp — AI Intern (2023)
-
-**SNOW AI Image Generation App**  
-Supported diffusion-based image generation research for internal SNOW AI services.  
-Assisted in LoRA model training and prompt design evaluation.
 
 ---
 
